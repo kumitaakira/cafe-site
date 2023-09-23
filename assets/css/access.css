@@ -13,7 +13,7 @@
     padding: 30px o 50px;
 }
 
-@media screen,print and (min-width:768px) {
+@media print,screen and (min-width:768px) {
     .secton-access {
         padding: 60px 0 100px;
         min-width: 700px;
@@ -24,7 +24,7 @@
     margin-bottom: 15px;
 }
 
-@media screen,print and (min-width:768px) {
+@media print,screen and (min-width:768px) {
     .access-img {
         width: 50%;
         max-width: 300px;
@@ -57,7 +57,7 @@
     line-height: 1.5;
 }
 
-@media screen,print and (min-width:768px) {
+@media print,screen and (min-width:768px) {
     .access-block {
         display: -webkit-flex;
         display: -ms-flexbox;
