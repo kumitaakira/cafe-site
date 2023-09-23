@@ -98,7 +98,7 @@
     padding: 15px 10px;
 }
 
-@media screen,print and (min-width:768px) {
+@media print,screen and (min-width:768px) {
     .footer {
         padding: 30px 10px;
     }
